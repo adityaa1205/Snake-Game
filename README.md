@@ -29,6 +29,6 @@ To start the game, run the `snake_game.py` file:
 *p.s*-import pygame module first
 
 ## How to Play
--Use the W, A, S, D keys to move the snake up, left, down, and right respectively.
--The snake will grow in length each time it eats a target.
--The game ends if the snake moves out of bounds.
+- Use the W, A, S, D keys to move the snake up, left, down, and right respectively.
+- The snake will grow in length each time it eats a target.
+- The game ends if the snake moves out of bounds.
