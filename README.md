@@ -8,9 +8,7 @@ This is a simple implementation of the classic Snake game using Python and the P
 - [Installation](#installation)
 - [Usage](#usage)
 - [How to Play](#how-to-play)
-- [Code Overview](#code-overview)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
